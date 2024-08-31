@@ -3,6 +3,7 @@ module github.com/metatube-community/metatube-sdk-go
 go 1.22
 
 require (
+	github.com/metatube-community/metatube-sdk-go v1.2.6
 	github.com/adrg/strutil v0.3.1
 	github.com/antchfx/htmlquery v1.3.2
 	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de
